@@ -1,0 +1,14 @@
+{
+  "appTitle": "cloudwalk",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "currentWeather": "Current Weather",
+  "main": "Main",
+  "temp": "Temp",
+  "min": "Min",
+  "max": "Max",
+  "feelsLike": "Feels Like",
+  "humidity": "Humidity",
+  "searchByCountry": "Search by country..."
+}
